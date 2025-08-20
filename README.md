@@ -5,7 +5,7 @@ This repository contains a publication-ready Sunburst Diagram created with RAWGr
 - **Author contact (required):** 23f2005402@ds.study.iitm.ac.in
 
 ## Files
-- `chart.png` — Sunburst Diagram (512–512 px, PNG format)
+- `chart.png` — Sunburst Diagram (300–512 px, PNG format)
 - `README.md` — This file
 
 ## How to reproduce
